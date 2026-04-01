@@ -79,7 +79,7 @@
 
 ## 🤝 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/portfolio-143?style=for-the-badge&logo=google-chrome&logoColor=black&color=black&labelColor=white)](https://gabriel-rigaud.students-laplateforme.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-143?style=for-the-badge&logo=google-chrome&logoColor=black&color=black&labelColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Rigaud-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
 [![GitHub](https://img.shields.io/badge/GitHub-gabrielrigaud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielrigaud/)
 
@@ -99,6 +99,6 @@
 
 <div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=gabriel.rigaud)
+![](https://visitor-badge.glitch.me/badge?page_id=gabrielrigaud)
 
 </div>
