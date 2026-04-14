@@ -17,8 +17,12 @@
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | 🎬 My Cinema | App de gestion de films | JS, PHP, MySQL |
-| 📄 Générateur CV | Générateur dynamique de CV | HTML, CSS, JS |
-| 🖼️ Portfolio | Portfolio personnel | HTML, CSS |
+| 🛒 Boutique en ligne | Plateforme e-commerce | JS, PHP, MySQL |
+| 📖 Auto completion | Moteur de recherche | JS, PHP, MySQL |
+| 📌 ToDoList | App de gestion de tâches | JS, PHP, MySQL |
+| 🧠 Memory | App de jeu de mémoire | JS, PHP, MySQL |
+| 📄 Livre D'or | Plateforme de messages utilisateurs sécurisée | JS, HTML, PHP, |
+| 🖼️ Portfolio | Portfolio personnel | HTML, CSS , JS |
 
 ---
 
@@ -68,9 +72,6 @@
 
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrigaud&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrigaud&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabrielrigaud&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -79,7 +80,7 @@
 
 ## 🤝 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/portfolio-143?style=for-the-badge&logo=google-chrome&logoColor=black&color=black&labelColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/portfolio-143?style=for-the-badge&logo=google-chrome&logoColor=black&color=black&labelColor=white)](https://gabriel-rigaud.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Rigaud-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
 [![GitHub](https://img.shields.io/badge/GitHub-gabrielrigaud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielrigaud/)
 
