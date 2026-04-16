@@ -22,7 +22,7 @@
 | 📌 ToDoList | App de gestion de tâches | JS, PHP, MySQL |
 | 🧠 Memory | App de jeu de mémoire | JS, PHP, MySQL |
 | 📄 Livre D'or | Plateforme de messages utilisateurs sécurisée | JS, HTML, PHP, |
-| 🖼️ Portfolio | Portfolio personnel | HTML, CSS , JS |
+| 🖼️ Portfolio | Portfolio personnel | Vite, Tailwind CSS, GSAP |
 
 ---
 
