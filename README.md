@@ -5,7 +5,6 @@
 ## 👋 Hey, moi c'est Gabriel !
 
 - 📖 Étudiant depuis **novembre 2025** à [**Epitech**](https://www.epitech.eu/) Marseille — Web Académie 🧑‍💻  
-  _Précédemment à **LaPlateforme** Marseille (2021 – 2024)_
 - 🔎 En recherche d'une **alternance** en développement web
 - 🌍 Marseille — Télétravail ou présentiel
 - 📬 gabriel.rigaud@epitech.eu
